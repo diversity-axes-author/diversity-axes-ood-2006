@@ -1,12 +1,5 @@
 # Beyond Token Entropy: Disentangling Diversity Axes for OOD Reasoning in RL-Trained LLMs
 
-**Samuel Maduabuchi**
-University of Nigeria, Nsukka
-
----
-
-## Overview
-
 This repository contains the code and data for the paper:
 
 > *Beyond Token Entropy: Disentangling Diversity Axes for Out-of-Distribution Reasoning in RL-Trained LLMs*
